@@ -1,6 +1,6 @@
 # APV - Administrador de Pacientes de Veterinaria
 
-Backend para la administración de pacientes de una veterinaria. Proyecto desarrollado con Node.js, Express y MongoDB como parte del aprendizaje de Full Stack JavaScript.
+Backend para la administración de pacientes de una veterinaria. Proyecto desarrollado con Node.js, Express y MongoDB.
 
 ## Tecnologías
 
